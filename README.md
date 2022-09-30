@@ -1,2 +1,2 @@
-# cross-course-project-JeanArce
-cross-course-project-JeanArce created by GitHub Classroom
+MY WCT CAssignment
+This is my assignment.
